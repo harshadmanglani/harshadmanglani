@@ -1,7 +1,7 @@
 <!--
 **harshadmanglani/harshadmanglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi, I'm Harshad 👋🏾   
+### Hi, I'm Harshad 👋   
 ![GitHub followers](https://img.shields.io/github/followers/harshadmanglani?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-harshadmanglani&color=blueviolet)
 
