@@ -6,13 +6,15 @@
 ![](https://komarev.com/ghpvc/?username=your-github-harshadmanglani&color=blueviolet)
 
 
-<img align="left" src="https://raw.githubusercontent.com/harshadmanglani/harshadmanglani/master/sher.gif"  width="200" height="185" alt="Hello!">
-<a href="https://github.com/rutujak24">
+<img align="center" src="https://i.pinimg.com/originals/89/30/0c/89300c6d6f9fd2b5cc448eef9a5b81a8.gif"  width="200" height="185" alt="Hello!">
+<br>
+<br>
+<a href="https://github.com/harshadmanglani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadmanglani&theme=dracula&langs_count=8&layout=compact" />
 </a>
 <br>
 <br>
-<a href="https://github.com/rutujak24">
+<a href="https://github.com/harshadmanglani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshadmanglani&show_icons=true&theme=dracula&count_private=true" />
 </a>
 
