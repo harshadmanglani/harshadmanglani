@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-harshadmanglani&color=blueviolet)
 
 
-<img align="center" src="https://i.pinimg.com/originals/89/30/0c/89300c6d6f9fd2b5cc448eef9a5b81a8.gif"  width="400" height="350" alt="Hello!">
+<img align="center" src="https://i.pinimg.com/originals/89/30/0c/89300c6d6f9fd2b5cc448eef9a5b81a8.gif"  width="350" height="300" alt="Hello!">
 <br>
 <br>
 <a href="https://github.com/harshadmanglani">
